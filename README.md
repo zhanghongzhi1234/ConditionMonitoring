@@ -473,3 +473,5 @@ verifyConnection.py | DB connection check
 11. transformer folder: 
     + transformer device query, processing and predicton
 
+# License
+This Application is under the GPL license. See the [LICENSE](LICENSE) file for details..
